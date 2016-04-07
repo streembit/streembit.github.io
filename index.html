@@ -1,0 +1,58 @@
+---
+layout: page
+title: Streembit
+subtitle: Real time secure communication system for humans and machines
+---
+
+<div style="margin-bottom:20px;padding:10px;background-color: #fbfbfb; border: 1px solid #ddd; border-radius:5px">
+  <h3 style="margin:5px">Welcome!</h3>
+  <div style="color:#555; font-size:16px; margin:0 0 0 20px">
+    The purpose of <a href="http://streembit.github.io/2016-02-23-What-is-Streembit">Streembit</a> is to create a <span style="font-weight:bold">free, secure, decentralised, peer to peer, open source</span> system that secures your real time communication. You can have as many accounts on the permissionless Streembit network as you want. <span style="font-weight:bold">No registration, no email address, no personal details</span> are required. <span style="font-weight:bold">Streembit will not spam users with ads.</span> Instead of using <a href="http://streembit.github.io/2016-02-26-Corporations-ecosystem-and-privacy">centralised corporate</a> clouds, Streembit runs on a community driven, <span style="font-weight:bold">decentralised, P2P</span> overlay network. Our system aims to implement a <a href="http://streembit.github.io/2016-02-24-Streembit-security">strong security</a> that keeps your real time data (live video chat, audio calls, text chat, file transfer) and your communication with Internet of Things devices safe from cyber criminals, industrial espionage and patrolling government agencies.
+    <br/>
+    <br/>
+    Follow this blog site to explore where decentralized, peer to peer technology can take us. Please let us know how to improve the system and what features you would like to see in Streembit. 
+  </div>
+</div>
+
+<div style="margin: 40px 0 20px 0;text-align:center"><a href="http://streembit.github.io/downloads/streembit_whitepaper_v101.pdf" title="Download the streembit white paper" style="font-size:26px">Streembit white paper</a></div>
+
+<div class="posts-list">
+  {% for post in paginator.posts %}
+  <article class="post-preview">
+    <a href="{{ post.url | prepend: site.baseurl }}">
+	  <h2 class="post-title">{{ post.title }}</h2>
+	
+	  {% if post.subtitle %}
+	  <h3 class="post-subtitle">
+	    {{ post.subtitle }}
+	  </h3>
+	  {% endif %}  
+    </a>
+
+    <p class="post-meta">
+      Posted by {% if post.author %}{{ post.author }}{% else %}{{ site.author_name }}{% endif %} on {{ post.date | date: "%B %-d, %Y" }}
+    </p>
+  
+    <div class="post-entry">
+      {{ post.content | truncatewords: 50 | strip_html | xml_escape}}
+	  <a href="{{ post.url | prepend: site.baseurl }}" class="post-read-more">[Read&nbsp;More]</a>
+    </div>
+  
+   </article>
+  {% endfor %}
+</div>
+
+{% if paginator.total_pages > 1 %}
+<ul class="pager main-pager">
+  {% if paginator.previous_page %}
+  <li class="previous">
+    <a href="{{ paginator.previous_page_path | prepend: site.baseurl | replace: '//', '/' }}">&larr; Newer Posts</a>
+  </li>
+  {% endif %}
+  {% if paginator.next_page %}
+  <li class="next">
+    <a href="{{ paginator.next_page_path | prepend: site.baseurl | replace: '//', '/' }}">Older Posts &rarr;</a>
+  </li>
+  {% endif %}
+</ul>
+{% endif %}
