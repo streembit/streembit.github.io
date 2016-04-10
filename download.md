@@ -35,12 +35,13 @@ Optional: create a shortcut from the Streembit executable at your Desktop or Tas
 ------
 
 On Linux, change to the directory where the zip file was extracted.   
-```bash
+```bash   
 $ cd /path/to/extracted_files
-```
+ ```
 Execute the Streembit binary file. 
-```bash
+```bash    
 $ ./streembit
-```
+```   
+
 Optional: create a .desktop [file](https://wiki.archlinux.org/index.php/Desktop_entries) for quick access.
 
