@@ -4,7 +4,8 @@ title: Sponsors
 permalink: /sponsors
 ---
 <div style="text-align:center">
-    Thank you for supporting us! Please send email to <a href="mailto:tzpardi@streembit.com">tzpardi@streembit.com</a> if you have any question with regards to sponsoring Streembit!
+    Thank you for supporting us! With the help of our sponsors, we can keep developing Streembit, deliver the <a href="http://streemio.github.io/roadmap">roadmap</a>, keep Streembit open source and free. < br/> 
+    Please send email to <a href="mailto:tzpardi@streembit.com">tzpardi@streembit.com</a> if you have any question with regards to sponsoring Streembit!
 </div>
 
 -----
