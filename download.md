@@ -28,13 +28,23 @@ permalink: /download
 
 <div style="border:2px solid #ddd; padding:15px;margin:50px 0 30px 0;background-color:#f5f5f5">
     <div style="font-weight:bold">Installation instructions</div>
-    <div style="margin-top:20px">To provide users with the most secure solution and to avoid placing dependencies on your computer the Streembit software is not an installed application. You can run the software by extracting the downloaded file and execute the Streembit binary. Please follow the steps below to initialize the software.</div>
-    <div style="margin-top:20px">
-        <ol>
-            <li>Download one of the above the compressed files which is relevant to your operating system (OS).</li>
-            <li>Extract the compressed file into any directory on your computer e.g. "C:\streembit" (on Windows) or "/home/username/streembit" on a Linux machine. </li>
-            <li>On Windows, right click on the streembit.exe file, select "Run as administrator" from the menu to execute the Streembit software. On Linux, execute the Streembit binary file.</li>
-            <li>Optional: create a shortcut from the Streembit executable at your Desktop or Taskbar for quick access.</li>
-        </ol>
-    </div>
+    <div style="margin-top:20px">To provide users with the most secure solution and to avoid placing dependencies on your computer the Streembit software is not an installed application. You can run the software by extracting the downloaded file and execute the Streembit binary. Please follow the steps below to execute the application.</div>
 </div>
+
+Download one of the above the compressed files which is relevant to your operating system (OS).
+
+Extract the compressed file into any directory on your computer e.g. "C:\streembit" (on Windows) or "/home/username/streembit" on a Linux machine.
+
+On Windows, right click on the streembit.exe file, select "Run as administrator" from the menu to execute the Streembit software.   
+Optional: create a shortcut from the Streembit executable at your Desktop or Taskbar for quick access.
+
+On Linux, change to the directory where the zip file was extracted.   
+```bash
+$ cd /path/to/extracted_files
+```
+Execute the Streembit binary file. 
+```bash
+$ ./streembit
+```
+Optional: create a .desktop [file](https://wiki.archlinux.org/index.php/Desktop_entries) for quick access.
+
