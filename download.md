@@ -34,11 +34,11 @@ Optional: create a shortcut from the Streembit executable at your Desktop or Tas
 
 ------
 
-On Linux, change to the directory where the zip file was extracted.   
+On Linux, change to the directory where the zip file was extracted.       
 ```bash   
 $ cd /path/to/extracted_files
- ```
-Execute the Streembit binary file. 
+ ```     
+Execute the Streembit binary file.      
 ```bash    
 $ ./streembit
 ```   
