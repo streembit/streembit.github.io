@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Hiding the metadata
-subtitle: Streembit, I2P, Tor and hiding the metadata.
+subtitle: Streembit, I2P, Tor and hiding the connection details.
 author: "T Z Pardi"
 categories: article
 ---
