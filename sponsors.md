@@ -22,6 +22,6 @@ permalink: /sponsors
 
 ----------------
 
-<div style="text-align:center">
+<div style="text-align:center;margin-top:75px">
     Please send email to <a href="mailto:tzpardi@streembit.com">tzpardi@streembit.com</a> if you have any question with regards to sponsoring Streembit!
 </div>
