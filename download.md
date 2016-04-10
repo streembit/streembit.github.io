@@ -12,7 +12,7 @@ MD5 hash: a21d7dd9492a3aab369a2583fb9f5d62
 
 Linux 64-bit    
 [Streembit v.1.0.1 Linux64 executable](http://streembit.github.io/downloads/streembit_linux64.zip)    
-MD5 hash: 39d93fb20f33913e2833b90a055ff0d9
+MD5 hash: 6e3559b6b274a726548319c4b7028dd2
 
 --------
 
