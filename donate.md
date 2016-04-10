@@ -4,7 +4,7 @@ title: Donate
 permalink: /donate
 ---
 
-Thank you, we appreciate your support. Your generosity helps develop Streembit. We believe in a world in which every single human being have right to privacy and secure communication. Your donation will help us get there.
+Thank you, we appreciate your support. Your generosity helps develop Streembit and deliver the work items of the <a href="http://streemio.github.io/roadmap">roadmap</a>. We believe in a world in which every single human being have right to privacy and secure communication. Your donation will help us get there.
 
 -----
 
