@@ -40,7 +40,7 @@ navbar-links:
 # Change all these values or delete the ones you don't want.
 # Important: you must keep the "name" parameter, everything else you can remove
 author:
-  name: streemio
+  name: streembit
   email: "tzpardi@streembit.com"
   facebook: Streembit  
   github: streembit    
