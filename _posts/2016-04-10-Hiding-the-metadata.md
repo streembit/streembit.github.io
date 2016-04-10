@@ -6,7 +6,7 @@ author: "T Z Pardi"
 categories: article
 ---
 
-We've received questions about hiding the metadata, so I thought I’d go ahead and answer them. Does Streembit hide the metadata and IP addresses of the users using Tor or I2P?
+We've received questions about hiding the metadata with Streembit, so I thought I’d go ahead and answer them. Does Streembit hide the metadata and IP addresses of the users using Tor or I2P?
 
 It seems that fully hiding the communication related metadata is not feasible, not even with Tor nor I2P. The very nature of the Internet is that users are identified by their IP address. Therefore, the network providers will always know the origin of TCP/UDP requests. We can introduce as many routers, nodes, obfuscators, etc. to the communication chain as we want, but the request will have to go through at least one ISP backbone. This means that traceability cannot be avoided. The other issues with Tor and I2P are political. Many experts in the security community believe that the majority of the Tor and I2P nodes are actually run by law enforcement as a convenient interception point to monitor the dark web. After all, why should law enforcement bother with more expensive surveillance? Tor and I2P could give them a lot of useful metadata and traffic information. Law enforcement agencies have already demonstrated that they are fully capable of using Tor/I2P to their advantage. So, it seems that attempting to hide metadata is an uphill battle that users can never win.
 
