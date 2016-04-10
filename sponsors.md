@@ -17,7 +17,7 @@ permalink: /sponsors
 </div>
 
 <div style="text-align:center;margin-top:50px">
-    Thank you for supporting us! With the help of our sponsors, we can keep developing Streembit, deliver the <a href="http://streemio.github.io/roadmap">roadmap</a>, keep Streembit open source and free. 
+    Thank you for supporting us! With the help of our sponsors, we can keep developing Streembit, deliver the work items of the <a href="http://streemio.github.io/roadmap">roadmap</a>, keep Streembit open source and free. 
 </div>
 
 ----------------
