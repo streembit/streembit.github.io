@@ -42,8 +42,8 @@ On Linux, change to the directory where the zip file was extracted.
 
 ```
 $ cd /path/to/extracted_files
- ```     
- 
+```     
+
 Execute the Streembit binary file.  
 
 ```
