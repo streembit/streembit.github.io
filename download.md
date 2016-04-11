@@ -6,7 +6,7 @@ permalink: /download
 
 Windows 64-bit    
 [Streembit v.1.0.1 Win64 executable](http://streembit.github.io/downloads/streembit_win64.zip)  
-MD5 hash: a21d7dd9492a3aab369a2583fb9f5d62
+MD5 hash: 1635dc422e7bf38056acb27f4cfd5fec 
 
 --------
 
