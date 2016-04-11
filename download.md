@@ -40,13 +40,13 @@ Linux
 Open the terminal.    
 On Linux, change to the directory where the zip file was extracted.   
 
-```bash
+```
 $ cd /path/to/extracted_files
  ```     
  
 Execute the Streembit binary file.  
 
-```bash
+```
 $ ./streembit
 ```   
 
@@ -66,6 +66,10 @@ Execute the Streembit binary file.
 ```
 $ sudo nwjs.app/Contents/MacOS/nwjs .
 ```   
+
+(Even our software is fully open sourced and anyone can verify that there are no backdoors exist nor malicious activities executed by the application, Apple makes the execution of the software a very difficult task. We are working on creating a signed, more user friendly package for MAC OS X users.   
+We suggest to get the source using Git on MAC OS X it from the terminal by executing “nwjs.app/Contents/MacOS/nwjs .” until a more user friendly MAC OS X package is not available.)
+
 
 
 
