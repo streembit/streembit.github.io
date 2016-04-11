@@ -18,7 +18,7 @@ MD5 hash: 6e3559b6b274a726548319c4b7028dd2
 
 MAC OS X 64-bit    
 [Streembit v.1.0.1 Mac executable](http://streembit.github.io/downloads/streembit_macosx64.zip)    
-MD5 hash: 39d93fb20f33913e2833b90a055ff0d9
+MD5 hash: 918b0779bbbc68eb5cda846b3d857b8a
 
 --------
 
