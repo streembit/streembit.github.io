@@ -31,10 +31,37 @@ Please follow the steps below to execute the application.
 
 Windows
 -------
-
 On Windows, right click on the streembit.exe file, select "Run as administrator" from the menu to execute the Streembit software.   
 Optional: create a shortcut from the Streembit executable at your Desktop or Taskbar for quick access.
 
+
+Linux
+-----
+Open the terminal.    
+On Linux, change to the directory where the zip file was extracted.          
+```bash   
+$ cd /path/to/extracted_files
+ ```     
+Execute the Streembit binary file.      
+```bash    
+$ ./streembit
+```   
+
+Optional: create a .desktop [file](https://wiki.archlinux.org/index.php/Desktop_entries) for quick access.
+
+Mac OS X
+--------
+Open the terminal.    
+Add read/write permission to the nwjs.app package and its entire content.
+
+```bash
+$ cd /path/to/extracted_files
+```
+
+Execute the Streembit binary file.      
+```bash    
+$ sudo nwjs.app/Contents/MacOS/nwjs .
+```   
 
 
 
