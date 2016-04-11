@@ -39,11 +39,13 @@ Linux
 -----
 Open the terminal.    
 On Linux, change to the directory where the zip file was extracted.          
-```bash   
+```
 $ cd /path/to/extracted_files
  ```     
-Execute the Streembit binary file.      
-```bash    
+ 
+Execute the Streembit binary file.  
+
+```
 $ ./streembit
 ```   
 
@@ -54,12 +56,13 @@ Mac OS X
 Open the terminal.    
 Add read/write permission to the nwjs.app package and its entire content.
 
-```bash
+```
 $ cd /path/to/extracted_files
 ```
 
-Execute the Streembit binary file.      
-```bash    
+Execute the Streembit binary file.     
+
+```
 $ sudo nwjs.app/Contents/MacOS/nwjs .
 ```   
 
