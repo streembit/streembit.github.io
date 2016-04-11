@@ -50,7 +50,7 @@ Execute the Streembit binary file.
 $ ./streembit
 ```   
 
-Optional: create a .desktop [file](https://wiki.archlinux.org/index.php/Desktop_entries) for quick access.
+Optional: create a [.desktop file](https://wiki.archlinux.org/index.php/Desktop_entries) for quick access.
 
 Mac OS X
 --------
