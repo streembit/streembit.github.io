@@ -5,19 +5,19 @@ permalink: /download
 ---
 
 Windows 64-bit    
-[Streembit v.1.0.1 Win64 executable](http://streembit.github.io/downloads/streembit_win64.zip)  
-MD5 hash: 1635dc422e7bf38056acb27f4cfd5fec 
+[Streembit v.1.0.2 Win64 executable](http://streembit.github.io/downloads/streembit_win64.zip)  
+MD5 hash: 219eabe1278bba53c9e7995a56b166d4 
 
 --------
 
 Linux 64-bit    
-[Streembit v.1.0.1 Linux64 executable](http://streembit.github.io/downloads/streembit_linux64.zip)    
-MD5 hash: 6e3559b6b274a726548319c4b7028dd2
+[Streembit v.1.0.2 Linux64 executable](http://streembit.github.io/downloads/streembit_linux64.zip)    
+MD5 hash: ca70f8e9ab815a3475a5fe718052e331
 
 --------
 
 MAC OS X 64-bit    
-[Streembit v.1.0.1 Mac executable](http://streembit.github.io/downloads/streembit_macosx64.zip)    
+[Streembit v.1.0.2 Mac executable](http://streembit.github.io/downloads/streembit_macosx64.zip)    
 MD5 hash: 918b0779bbbc68eb5cda846b3d857b8a
 
 --------
