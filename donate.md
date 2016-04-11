@@ -70,7 +70,7 @@ Thank you, we appreciate your support. Your generosity helps develop Streembit a
         You may also have your <em>website linked from our donor list</em>.<br />
         For the link URL, we only accept frontpages of websites. We reserve the right not to list any site we may consider inappropriate. Particularly, we do not list offensive sites and link farms<br />
         For the title, we only accept the name of the donor, person or company, or name of the website.<br /><br />
-        If you want to link to a <em>commercial website</em>, please donate 19 USD or more.<br />
+        If you want to link to a <em>commercial website</em>, please donate 50 USD or more.<br />
         Please make sure you use the <em>Donate</em> buttons above.<br />
         If you are unsure, please contact us on <a href="mailto:tzpardi@streembit.com">tzpardi@streembit.com</a> before donating.<br /><br />
         After you donate, you will receive an email from <a href="mailto:tzpardi@streembit.com">tzpardi@streembit.com</a>. Please reply to the email and let us know the link you wish to display in the donation list.<br />
