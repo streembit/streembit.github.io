@@ -19,7 +19,7 @@ Linux 64-bit
 --------
 
 
-#### Linux and MAC OS X build and binary update is in progress ... please check the downloads later.
+#### The MAC OS X build and binary update is in progress ... please check the downloads later.
 
 -----
 
