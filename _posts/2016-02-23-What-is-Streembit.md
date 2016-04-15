@@ -47,7 +47,13 @@ Streembit aims to comply with open security and communication standards. The com
 #### Mitigate the risk of inside job hacking 
 Many experts suggest that the majority of hacking directed against companies actually stems from insiders [within the companies themselves](http://nyp.st/1xegHJs). Centralized systems will be always vulnerable to dishonest employees. It is no wonder that over the years the credit card details, social security numbers, and personal details of tens of millions of individuals have been stolen from centralised servers.  
   Decentralized systems address this issue by not storing a large amount of sensitive information in one central place, and securing the stored data with cryptography functions to make it visible only to the owner of the data. Such encrypted data isn't useful for cyber criminals, and because there is no way to crack strong encryption with brute force attacks; there is very little incentive for cyber criminals to steal data from a decentralized system.
+  
+--------
 
+<div style="margin: 40px 0 20px 0;text-align:center">
+    <div style="font-size:12px;font-weight:bold">Feature comparison table</div>
+    <img src="http://streembit.github.io/img/streembit_comparison.png" />
+</div>
 
 --------
 Check out [other open source projects](https://github.com/zsoltpardi) I have contributed. You can contact me at tzpardi@streembit.com if you have any questions or comments.
