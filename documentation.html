@@ -32,7 +32,7 @@ layout: docs
             <p>The Streembit system forms a decentralized peer to peer network to manage connections between machines and machines or humans and machines.  The participants in the network are the peer nodes. The peer to peer network is scalable and an unlimited number of nodes can participate in the network.</p>
             <p>The system performs public private key infrastructure based authentication and access control functions to securely connect peer nodes. The application generates at least one private/public key pair on each peer node including on the Internet-of-Things devices. The actors of the system publish their public keys to the peer to peer network via a Kademlia distributed hash table (DHT). Each peer node knows the public key of the other connected peer nodes.  The system identifies peer nodes in the peer to peer network by their public key. To ensure data integrity the nodes sign the messages with their private key. The nodes sign all messages -  there are no unsigned messages circulated in the system. (The requirement for signing the messages also help to mitigate the risks of Sybil attacks and DDoS attacks).</p>
             
-            <img src="../img/streemio_system.png" style="margin:10px 0 30px 0"/>
+            <img src="../img/streembit_system.png" style="margin:10px 0 30px 0"/>
 
             <p>Streembit supports two types of network implementations:</p>
             <ol type="a">
@@ -80,7 +80,7 @@ layout: docs
 
             <div style="margin-top:30px;font-weight:bold">How secure the cryptography of Streembit?</div>
             <p>Both 128-bit and 256-bit AES symmetric encryption, the cryptography schemes of the messages in the Streembit network, are safe from any brute force attacks. The following UML diagram describes the key exchange using ECDH and securing the message with 256-bit AES symmetric key between "User A" and "User B".</p>
-            <img src="../img/streemio_send_msg_with_key_exchange.png" />
+            <img src="../img/streembit_send_msg_with_key_exchange.png" />
         </div>
     </div>
 </script> 
@@ -213,7 +213,7 @@ layout: docs
             <p>Your account backup data is never saved on a central server by the Streembit application and the account backup file is saved to your Download directory.</p>
     
             <div class="settings-helpitem-title">What is saved in the Backup file?</div>
-            <p>The backup file contains your encrypted Streembit ECC public/private key pair. The backup data is base64 encoded. It starts with “---BEGIN STREEMIO KEY---“, and the file ends with “---END STREEMIO KEY---“</p>
+            <p>The backup file contains your encrypted Streembit ECC public/private key pair. The backup data is base64 encoded. It starts with “---BEGIN STREEMBIT KEY---“, and the file ends with “---END STREEMBIT KEY---“</p>
         </div>
     </div>
 </script> 
@@ -255,7 +255,7 @@ layout: docs
     <div class="help-content-item">
         <h4>Connect to the public Streembit network</h4>
         <div>
-            <p>Click on the “CONNECT TO PUBLIC STREEMIO” button from the start screen or click on the Streembit/Connect to public network menu item to connect the public Streembit network. The user information view will be initialized. Enter your password and then the application will try to connect to the public Streembit network.</p>
+            <p>Click on the “CONNECT TO PUBLIC STREEMBIT” button from the start screen or click on the Streembit/Connect to public network menu item to connect the public Streembit network. The user information view will be initialized. Enter your password and then the application will try to connect to the public Streembit network.</p>
         </div>
     </div>
 </script> 
@@ -264,7 +264,7 @@ layout: docs
     <div class="help-content-item">
         <h4>Connect to a private network</h4>
         <div>
-            <p>Click on the “CONNECT TO PRIVATE STREEMIO” button from the start screen or click on the Streembit/Connect to private network menu item to connect the a private Streembit hub. The user information view will be initialized. Enter your password and then the application will try to connect to the private Streembit hub.</p>
+            <p>Click on the “CONNECT TO PRIVATE STREEMBIT” button from the start screen or click on the Streembit/Connect to private network menu item to connect the a private Streembit hub. The user information view will be initialized. Enter your password and then the application will try to connect to the private Streembit hub.</p>
         </div>
     </div>
 </script> 
