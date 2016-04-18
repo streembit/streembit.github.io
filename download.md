@@ -4,10 +4,14 @@ title: Download
 permalink: /download
 ---
 
+Windows 64-bit        
+[Streembit v.1.0.4 Win64 executable](http://streembit.github.io/downloads/streembit_win64.zip)      
+MD5 hash: b908c01524715b9dd6bac7ad28268c77     
+
+--------
 
 
-
-#### The v.1.0.5 Windows, Linux and MAC OS X build and binary update is in progress ... please check the downloads later or build it from source for the time being.
+#### The v.1.0.4 Linux and MAC OS X build and binary update is in progress ... please check the downloads later or build it from source for the time being.
 
 -----
 
