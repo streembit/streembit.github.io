@@ -15,8 +15,6 @@ MD5 hash: def88ca2ef61f6a9ec41df8bbcb9cebe
 
 -----
 
------
-
 
 
 ### Installation instructions
