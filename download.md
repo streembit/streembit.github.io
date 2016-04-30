@@ -5,8 +5,7 @@ permalink: /download
 ---
 
 
-#### We are rolling out a major update of the software and we will make the binaries available on this page very soon. In the meantime, if you don't want to wait for the new binaries you can build the software
-from the latest "develop" branches.
+#### We are rolling out a major update of the software and we will make the binaries available on this page very soon. In the meantime, if you don't want to wait for the new binaries you can build the software from the latest "develop" branches.
 
 
 -----
