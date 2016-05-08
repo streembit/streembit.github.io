@@ -81,6 +81,6 @@ Thank you, we appreciate your support. Your generosity helps develop Streembit a
    <h1 style="margin-top:50px">Donors</h2>
    <h3>2016</h3>
    <div style="border-bottom:1px solid #ccc;margin-bottom:20px">Donors of the year: GadgetNet LLC, Delaware USA  </div>
-   <div>Eni Pardi, Janos Gal, T. Kayan</div>
+   <div>Tim Collins, Steve Hunter, Julia Farrer, T. Kayan</div>
 </div>
 
