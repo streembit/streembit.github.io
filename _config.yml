@@ -33,7 +33,7 @@ navbar-links:
   Source Code: https://github.com/streembit/Streembit
   Roadmap: "roadmap"
   Sponsors: "sponsors"
-  Donate: "donate"
+  #Donate: "donate"
   
 # --- Footer options --- #
 
