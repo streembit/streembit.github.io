@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Hiding the metadata
-subtitle: Streembit, I2P, Tor and hiding the connection details.
+title: Decentralized IoT
+subtitle: Security and device discovery
 author: "T Z Pardi"
 categories: article
 ---
