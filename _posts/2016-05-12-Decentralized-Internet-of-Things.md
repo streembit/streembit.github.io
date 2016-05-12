@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Decentralized IoT
-subtitle: Security and device discovery
+title: Decentralized Internet-of-Things
+subtitle: IoT security and device discovery
 author: "T Z Pardi"
 categories: article
 ---
