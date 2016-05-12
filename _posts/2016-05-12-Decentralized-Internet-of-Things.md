@@ -16,4 +16,4 @@ Streembit also utilizes the concept of decentralized, peer-to-peer computing to 
 
 -------
 
-Check out the [other open source projects](https://github.com/zsoltpardi) I have contributed. You can contact me at zpardi@streembit.com if you have any questions or comments.
+Check out the [other open source projects](https://github.com/zsoltpardi) I have contributed. You can contact me at tzpardi@streembit.com if you have any questions or comments.
