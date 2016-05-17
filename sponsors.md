@@ -11,7 +11,6 @@ permalink: /sponsors
             <a href="http://www.zovolt.com" style="font-size:26px;font-weight:bold">ZoVolt Ltd, UK</a>
         </div>
         <div class="flex-btnitem">
-            <span style="font-size:26px;font-weight:bold">GadgetNet LLC</span>
         </div>
     </div>
 </div>
