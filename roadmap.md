@@ -9,6 +9,7 @@ Planned delivery 09/2016
 
 Features
 
+* Hide completely the contact information from the distibuted ledger. Currently the contacts publish their access information (IP address, publick key) to the DHT. We will encrypt that info with the contacts' ECDH key. (This feature will require the contacts exchange their ECDH keys with each other via another media/channel)
 * Android and iPhone implementation of Streembit
 * Add built in STUN server implementation, so the seeds can provide the STUN functionality to the peers
 * Peer to peer group video and audio chats to support the communication of large groups, teams and university classes.
