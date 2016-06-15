@@ -9,7 +9,7 @@ Planned delivery 09/2016
 
 Features
 
-* Network bootstrapping without preconfigured IP addresses. Options are IP scanning or multicasting such as SDP RFC4566, SAP RFC2974 or Source-Specific Multicast RFC4607.
+* Network bootstrapping without preconfigured IP addresses. Options are IP scanning, in the case of local networks multicasting such as SDP RFC4566, SAP RFC2974 or Source-Specific Multicast RFC4607, and IPv6 anycast or BGP anycast using IPv6 anycast address group (see RFC2373 section 2.6 and https://www.ietf.org/proceedings/51/I-D/draft-ietf-ipngwg-ipv6-anycast-analysis-00.txt).
 * Hide completely the contact information from the distibuted ledger. Currently the contacts publish their access information (IP address, publick key) to the DHT. We will encrypt that info with the contacts' ECDH key. (This feature will require the contacts exchange their ECDH keys with each other via another media/channel)
 * Run Streembit as a background process and add Streembit icon to the taskbar, so contacts can have a better user experience.
 * Android and iPhone implementation of Streembit
