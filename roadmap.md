@@ -9,6 +9,7 @@ Planned delivery 09/2016
 
 Features
 
+* Network bootstrapping without preconfigured IP addresses
 * Hide completely the contact information from the distibuted ledger. Currently the contacts publish their access information (IP address, publick key) to the DHT. We will encrypt that info with the contacts' ECDH key. (This feature will require the contacts exchange their ECDH keys with each other via another media/channel)
 * Run Streembit as a background process and add Streembit icon to the taskbar, so contacts can have a better user experience.
 * Android and iPhone implementation of Streembit
