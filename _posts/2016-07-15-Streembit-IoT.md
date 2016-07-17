@@ -12,8 +12,8 @@ We don’t suggest that you replace the existing system with a completely new on
 
 Alternatively, the IoT devices can publish the data to the Streembit distributed hash table to use a distributed storage instead of writing the data to a SQL server via a centralized web service or TCP/IP server. Then, the server can pull the data from the distributed storage. In this loosely coupled system the central server doesn’t have to be a mission critical, 99.9999% uptime component. It can be a lightweight system that pulls the data from the distributed storage. The system we propose is an event driven, asynchronous mechanism, pub-sub messaging and it implements the separation of concerns (SoC) design principle. The devices publish the data to the distributed storage and aren't concerned about the existence of the server. In such a topology the central server is not a single point of failure in the system anymore.
 In such a set up, Streembit does:  
-* Secure device handling  
-* Secure messaging between the device and server
+- Secure device handling  
+- Secure messaging between the device and server
 
 In case the commercial/industrial use case requires real time communication, it can be done via peer-to-peer and without the need of a central server. After all, we have said Streembit is a real time communication system between humans and machines.
 
