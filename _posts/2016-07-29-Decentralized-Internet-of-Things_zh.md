@@ -1,14 +1,15 @@
-—
+---
 layout: post
 title: 去中心化 (Decentralized) 的物聯網
 subtitle: Decentralized Internet-of-Things
 author: “jollen”
 categories: article
-—
+---
+
 
 去中心化 (Decentralized) 將是物聯網 (IoT) 佈署的趨勢，你現在正在看的 Streembit 計畫，將會提供一個去中心化物聯網的技術。根據 [Decentralized Internet-of-Things](http://streembit.github.io/2016-05-12-Decentralized-Internet-of-Things/) 的說明：
 
-> Security and discovery are two major system requirements in Internet of Things. Decentralized peer-to-peer computing could address both. 
+Security and discovery are two major system requirements in Internet of Things. Decentralized peer-to-peer computing could address both. 
 
 現有的物聯網面臨二個主要問題：Security 與 Device Discovery。而去中心化與點對點通訊（Peer-to-peer computing）是極佳的解決之道，Streembit 計畫正朝著這個方向發展。
 
@@ -25,6 +26,5 @@ Streembit 計畫為什麼要發展一個去中心化的 IoT 技術呢，這可�
 ![Streembit IoT](../img/streembit_iot.png)
 
 
-———
-
+-------
 Check out the [other open source projects](https://github.com/zsoltpardi) I have contributed. You can contact me at tzpardi@streembit.com if you have any questions or comments.
