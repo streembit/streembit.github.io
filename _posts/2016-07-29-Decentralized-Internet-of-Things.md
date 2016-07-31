@@ -25,6 +25,9 @@ Streembit 計畫為什麼要發展一個去中心化的 IoT 技術呢，這可�
 
 ![Streembit IoT](../img/streembit_iot.png)
 
+圖示：為什麼 Decentralized IoT 很重要？95% 的 IoT 開發者皆認為 Security 是一個重要議題，但只有 5.9% 的 IoT 使用者覺得已做好相關準備。從 Decentralized 的思維徹底解決 Security 問題，會比改善現有的 Centralized 架構更容易、可行。
+
+
 
 -------
-Check out the [other open source projects](https://github.com/zsoltpardi) I have contributed. You can contact me at tzpardi@streembit.com if you have any questions or comments.
+你可以在 [Streembit opensource project](https://github.com/streembit) 找到此計畫的程式碼。
