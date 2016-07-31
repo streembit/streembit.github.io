@@ -12,9 +12,9 @@ Linux 64-bit
 [Streembit v.1.0.8.1 Linux64 binaries](http://streembit.github.io/downloads/streembit_linux64.zip)      
 MD5 hash: 62a1714d78d135fca085149277e795fe  
 
-
-#### The v.1.0.8.1 MAC OS X build and binary update is in progress ... please check the downloads later or build it from source.
-
+Mac OS X
+[Streembit v.1.0.9 OSX64 binaries](http://streembit.github.io/downloads/streembit_macosx64.zip)   
+MD5 hash: af06f0b5f3e17977951b0f86d561f370
 -----
 
 
@@ -66,7 +66,3 @@ $ sudo nwjs.app/Contents/MacOS/nwjs .
 
 (Even our software is fully open sourced and anyone can verify that there are no backdoors exist nor malicious activities executed by the application, Apple makes the execution of the software a very difficult task. We are working on creating a signed, more user friendly package for MAC OS X users.   
 We suggest to get the source using Git on MAC OS X it from the terminal by executing “nwjs.app/Contents/MacOS/nwjs .” until a more user friendly MAC OS X package is not available.)
-
-
-
-
