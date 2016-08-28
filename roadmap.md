@@ -5,7 +5,7 @@ permalink: /roadmap
 ---
 
 #### Version 1.2.0
-Planned delivery 09/2016
+Planned delivery 10/2016
 
 Features
 
