@@ -1,5 +1,3 @@
-2017-01-04-Peer-networks-and-DDoS.md
-
 ---
 layout: post
 title: Mitigate DDoS attacks with P2P
@@ -18,10 +16,10 @@ In order to paralyze many millions of Netflix users the attackers have to concen
 
 However, since there is no central server present in a P2P network, to deny the service the users of a decentralized, P2P network would have to be attacked individually. The 1 Tbps attacking power would have to be divided to attack each peer separately. This defies the economy of the attack. Therefore the configuration and orchestration of such attack on a P2P network would be impractical and highly uneconomical.
 
--> ### Attack on centralized services <-
+### Attack on centralized services
 ![Attack on centralized services](../img/attack1.png)
 
--> ### Attack on P2P network <-
+### Attack on P2P network
 ![Attack on P2P network](../img/attack2.png)
 
 -------
