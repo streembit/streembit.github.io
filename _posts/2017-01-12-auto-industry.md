@@ -6,7 +6,7 @@ author: "T Z Pardi"
 categories: article
 ---
 
-We have started to work on automotive use cases.
+We have started to work on automotive industry use cases.
 
 ![Automotive industry powered by Streembit](../img/auto_artboard1.png)
 
