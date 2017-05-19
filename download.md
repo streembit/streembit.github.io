@@ -48,8 +48,6 @@ Optional: create a [.desktop file](https://wiki.archlinux.org/index.php/Desktop_
 
 Mac OS X
 --------
-Unzip the macosx64.zip file in the folder of your choice, for example the Desktop. A folder named streembit will be created. Double click that folder and you will see this directory structure:
+Unzip the macosx64.zip file in the folder of your choice, for example the Desktop. A folder named macosx64 will be created.
 
-![Streembit app](img/streembit.png)
-
-Double click on nwjs.app to start Streembit.
+Open the macosx64 folder and double click on nwjs.app to start Streembit.
