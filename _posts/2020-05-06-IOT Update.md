@@ -6,7 +6,7 @@ author: "Dan Davies"
 categories: article
 ---
 
-#### *_Health Warning_*  During this post we may try and sign you up to some pretty cool new tech and it might be too convincing for you to say no. Just saying.**
+#### *Health Warning*  During this post we may try and sign you up to some pretty cool new tech and it might be too convincing for you to say no. Just saying.**
 
 Not a day goes by when the tech press and media fire off warnings about the dangers of IOT in your home or in your business.  The hazards of someone else hacking into your network to control your IP cameras; to watch your children through the baby-cam; to control your home heating or even to check how much food you have left in your “smart” fridge.  These commentators are all too quick to point out the issues but there doesn’t seem to be a wealth of options out there if you are an IOT enthusiast who also values your own privacy and security be that in your home or in your office.  If that sounds like you then take a seat and have a look at what we have been busily working on in our Zovolt labs for the last two years.
 
