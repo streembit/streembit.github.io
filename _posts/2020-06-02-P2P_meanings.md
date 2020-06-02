@@ -10,7 +10,7 @@ categories: article
 
 It's probably about time to do a refresher on what P2P means to Streembit and this whole peer to peer term so we can better understand what we mean and how it is reflected in a number of different industries right now. Comparing apples and pears is never a useful thing to do if we want to ensure we are all discussing the same technology.
 
-P2P terminology is used quite widely now and there might be some confusion about  what it actually refers to but also some overlap too.  If we look at the [“P2P Foundation”] (https://p2pfoundation.net/) as an example this term is used to denote a form of freedom, open source, content sharing and cooperation between peers / individuals. The concept of freedom and  human rights is important as it chimes with our ethos too, although ours is focused on privacy in communications being a freedom and human right. 
+P2P terminology is used quite widely now and there might be some confusion about  what it actually refers to but also some overlap too.  If we look at the [“P2P Foundation"](https://p2pfoundation.net/) as an example this term is used to denote a form of freedom, open source, content sharing and cooperation between peers / individuals. The concept of freedom and  human rights is important as it chimes with our ethos too, although ours is focused on privacy in communications being a freedom and human right. 
 
 P2P - Peer to Peer is used  for a number of different definitions that we should look at:
 
@@ -38,6 +38,7 @@ Let's deal with what is meant by "permissioned" first and then by elimination we
 The benefits to this setup clearly provide users with something pretty good as they remove much of the attack surface associated with a central server and they allow P2P but in a slightly constrained way. For many situations and co no texts this would be absolutely fine and dandy, no problem. For us, though, we kind of want to know who is providing permission and who can take said permissions away. If we want, for example, the right to have free and secure private communications as a baseline human right then a permission based solution can't work as someone (government, foreign state or corporate entity) could pull the plug and we are sitting in the dark.  For the doom and gloom merchants out there we could look at articles such as this one to show some of the nasties associated with permissioned blockchain:
 
 [Hackers & Permissioned Blockchain](https://cointelegraph.com/news/hackers-target-enterprise-blockchains)
+
 [Also this example shows the potential struggles when you run a Blockchain](https://decrypt.co/29963/binance-will-support-controversial-steem-hardfork) 
 
 When a dispute occurs within it’s permissioned community. We will name no names here but there are instances where private blockchains have gone through new ownership and disputes have led to a “fork” in the blockchain as a form of protest.  This derails the original blockchain and provides multiple issues for owners and users.  This can only occur where there is a permission-based model.
